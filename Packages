@@ -4,4 +4,4 @@ Version: 1.3.1
 Architecture: iphoneos-arm64
 Description: Fake shutdown tweak for rootless jailbreak.
 Filename: com.megadev.sentinel_1.3.1_iphoneos-arm64.deb
-Size: 79124
+Size: 77256

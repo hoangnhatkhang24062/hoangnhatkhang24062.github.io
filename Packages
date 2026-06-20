@@ -22,3 +22,10 @@ Description: Protect your privacy! Lock apps with Face ID / Touch ID / Passcode.
 Filename: com.rpgfarm.a-shields.deb
 Size: 50306
 
+Package: com.yourcompany.realcc
+Name: RealCC
+Version: 0.0.4-1
+Architecture: iphoneos-arm
+Description: Completely disable Wi-Fi and Bluetooth from Control Center.
+Filename: com.yourcompany.realcc_0.0.4-1_iphoneos-arm.deb
+Size: 2672

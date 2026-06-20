@@ -21,3 +21,11 @@ Architecture: iphoneos-arm64
 Description: Protect your privacy! Lock apps with Face ID / Touch ID / Passcode.
 Filename: com.rpgfarm.a-shields.deb
 Size: 50306
+
+Package: com.rpgfarm.simpledateview
+Name: Simple Date View
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Description: Change your date or hours theme
+Filename: com.rpgfarm.simpledateview.deb
+Size: 7032

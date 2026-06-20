@@ -29,3 +29,11 @@ Architecture: iphoneos-arm64
 Description: Change your date or hours theme
 Filename: com.rpgfarm.simpledateview.deb
 Size: 7032
+
+Package: com.rpgfarm.eneko
+Name: Eneko
+Version: 1.4
+Architecture: iphoneos-arm64e
+Description: Live wallpaper!
+Filename: com.rpgfarm.eneko.deb
+Size: 29412

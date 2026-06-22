@@ -38,10 +38,18 @@ Description: Live wallpaper!
 Filename: dev.traurige.eneko_1.4_iphoneos-arm64.deb
 Size: 29412
 
-ackage: com.exile90.icleanerpro
+Package: com.exile90.icleanerpro
 Name: iClean Pro
 Version: 7.10.0
 Architecture: iphoneos-arm64
 Description: The first real system cleaner and optimizer for iOS!
 Filename: com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
 Size: 1259402
+
+Package: org.coolstar.sileo
+Name: Sileo Stable
+Version: 2.5.1
+Architecture: iphoneos-arm64
+Description: Repo for iOS jailbroken
+Filename: org.coolstar.sileo_2.5.1_iphoneos-arm64.deb
+Size: 2909972 

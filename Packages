@@ -53,3 +53,11 @@ Architecture: iphoneos-arm64
 Description: Repo for iOS jailbroken
 Filename: org.coolstar.sileo_2.5.1_iphoneos-arm64.deb
 Size: 2909972 
+
+Package: xyz.willy.zebra
+Name: Zebra Offical
+Version: 1.1.36
+Architecture: iphoneos-arm64
+Description: Repo for iOS jailbroken
+Filename: xyz.willy.zebra_1.1.36_iphoneos-arm64.deb
+Size: 3616770

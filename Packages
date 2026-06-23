@@ -69,3 +69,19 @@ Architecture: iphoneos-arm
 Description: Best theme for iPhone
 Filename: dylv.liquidass_0.0.9a_iphoneos-arm.deb
 Size: 1431614
+
+Package: com.winaviation.liquidass
+Name: Liqiud class (rootless)
+Version: 0.0.9a
+Architecture: iphoneos-arm64
+Description: Best theme for iPhone
+Filename: dylv.liquidass_0.0.9a_iphoneos-arm64.deb
+Size: 1431590
+
+Package: com.winaviation.liquidass
+Name: Liqiud class (roothide)
+Version: 0.0.9a
+Architecture: iphoneos-arm64e
+Description: Best theme for iPhone
+Filename: dylv.liquidass_0.0.9a_iphoneos-arm64e.deb
+Size: 1431672

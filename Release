@@ -1,9 +1,9 @@
-Origin: Khang Repo
-Label: KhangRepo
+Origin: Jb by meomeo
+Label: Jb by meomeo
 Suite: stable
 Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm64 iphoneos-arm64e
+Codename: hoangnhatkhang
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: Kho tweak doc lap cua Khang
+Description: Jailbreak-15-16-arm64-rootless roothide rootful
 Icon: CydiaIcon.png
